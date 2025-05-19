@@ -9,28 +9,28 @@ This responsive web application is built using **Next.js**, **HTML**, **CSS**, *
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](![Screenshot 2025-05-19 233811](https://github.com/user-attachments/assets/ca94b289-0da6-4584-86a5-cb568c32e52d)
-)
+![Screenshot 2025-05-19 233811](https://github.com/user-attachments/assets/ca94b289-0da6-4584-86a5-cb568c32e52d)
+
 
 ### 🍲 Browse Meals
-![Browse Meals](![Screenshot 2025-05-19 233713](https://github.com/user-attachments/assets/f25b20bc-0ba7-426f-b8b9-e26a079cb72f)
-)
+![Screenshot 2025-05-19 233713](https://github.com/user-attachments/assets/f25b20bc-0ba7-426f-b8b9-e26a079cb72f)
+
 
 ### 📝 Share Recipe Form
-![Share Meal](![Screenshot 2025-05-19 233729](https://github.com/user-attachments/assets/d6be547f-7bce-434c-b430-35d828f8a8a6)
-)
+![Screenshot 2025-05-19 233729](https://github.com/user-attachments/assets/d6be547f-7bce-434c-b430-35d828f8a8a6)
+
 
 ### 👥 Foodies Community
-![Foodies Community](![Screenshot 2025-05-19 233752](https://github.com/user-attachments/assets/8064c6b5-ec7b-4ef1-b425-33de8858491a)
-)
+![Screenshot 2025-05-19 233752](https://github.com/user-attachments/assets/8064c6b5-ec7b-4ef1-b425-33de8858491a)
+
 
 ### 🧾View Details
-![ View Details](![Screenshot 2025-05-20 001303](https://github.com/user-attachments/assets/6f09505a-c145-4f4a-b69f-d094a5e5041f)
-)
+![Screenshot 2025-05-20 001303](https://github.com/user-attachments/assets/6f09505a-c145-4f4a-b69f-d094a5e5041f)
+
 
 ## 🎥 Demo (Screen Recording)
 
-📽️ [Click here to watch a short demo of the application](#)  
+📽️ Click here to watch a short demo of the application-> 
 *(https://youtu.be/NfDUZBJwdBI)*
 
 
