@@ -1,6 +1,6 @@
 # 🍽️ FoodieVerse - A Community Food Blog
 
-**Foodies** is a full-stack food blog platform where users can **browse** and **share** delicious meal recipes. It showcases a dynamic collection of user-submitted meals, complete with images, summaries, and detailed instructions.
+**FoodieVerse** is a full-stack food blog platform where users can **browse** and **share** delicious meal recipes. It showcases a dynamic collection of user-submitted meals, complete with images, summaries, and detailed instructions.
 
 This responsive web application is built using **Next.js**, **HTML**, **CSS**, **JavaScript**, and **SQLite3** for persistent storage.  
 
