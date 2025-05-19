@@ -1,4 +1,4 @@
-# 🍽️ Foodies - A Community Food Blog
+# 🍽️ FoodieVerse - A Community Food Blog
 
 **Foodies** is a full-stack food blog platform where users can **browse** and **share** delicious meal recipes. It showcases a dynamic collection of user-submitted meals, complete with images, summaries, and detailed instructions.
 
